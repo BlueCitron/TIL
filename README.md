@@ -60,7 +60,7 @@ BlackQuote
 
 This is a normal paragraph.
 
- This is a code block.
+    This is a code block.
 
 
 아래 줄은 모두 수평선을 만든다.
