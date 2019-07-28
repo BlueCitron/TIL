@@ -118,7 +118,7 @@ This is an H2
 
 ## 코드
 
-* 4개의 공백 또는 하나의 탭으로 들여쓰기
+* 4개의 공백 또는 하나의 탭으로 들여쓰기<br/>
     This is a normal paragraph.<br/>
         This is a code block.
 
