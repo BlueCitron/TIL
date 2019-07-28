@@ -70,3 +70,19 @@ This is a normal paragraph.
 - - -
 ---------------------------------------
 
+
+링크
+* 참조링크
+https://www.google.com
+
+
+강조
+*Single asterisks*
+_Single underscores_
+**double asterisks**
+__double underscores__
+++underline++
+~~cancelline~~
+
+
+
