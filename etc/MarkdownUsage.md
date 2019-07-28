@@ -8,6 +8,7 @@
 
 This is an H1
 =============
+
 <br/>
 <br/>
 
@@ -18,6 +19,7 @@ This is an H1
 
 This is an H2
 -------------
+
 <br/>
 <br/>
 
@@ -40,18 +42,51 @@ This is an H2
 ##### This is a H5
 ###### This is a H6
 
+<br/>
+<br/>
 
-BlackQuote
+
+## BlackQuote
+    > This is a blackquote.
+    >> This is a second blackquote.
+    >>> This is a thrid blackquote.
+
+
 >This is a blackquote.
 >>This is a second blackquote.
 >>>This is a thrid blackquote.
 
-순서 있는 목록(번호)
+<br/>
+<br/>
+
+
+## 순서 있는 목록(번호)
+    1. 첫번째
+    2. 두번째
+    3. 세번째
+
+
 1. 첫번째
 2. 두번째
 3. 세번째
 
-순서 없는 목록(글머리 기호)(모두 똑같은 결과)
+<br/>
+<br/>
+
+## 순서 없는 목록(글머리 기호)(모두 똑같은 결과)
+    * 빨강
+      * 녹색
+        * 파랑
+
+    + 빨강
+      + 녹색
+        + 파랑
+    
+    - 빨강
+      - 녹색
+        - 파랑
+
+
 * 빨강
   * 녹색
     * 파랑
@@ -59,35 +94,45 @@ BlackQuote
 + 빨강
   + 녹색
     + 파랑
+    
 - 빨강
   - 녹색
     - 파랑
 
-혼합해서 사용하는 것도 가능
+
+<br/>
+<br/>
+
+## 혼합해서 사용하는 것도 가능
+    * 1단계
+      - 2단계
+        + 3단계
+
+
 * 1단계
   - 2단계
     + 3단계
 
+<br/>
+<br/>
 
-코드
-----
+## 코드
 
 * 4개의 공백 또는 하나의 탭으로 들여쓰기
-> This is a normal paragraph.
->     This is a code block.
+    This is a normal paragraph.
+        This is a code block.
+
 
 This is a normal paragraph.
-    This is a code block.
+     This is a code block.
 
 
-아래 줄은 모두 수평선을 만든다.
-----------------------------
-
-> * * *
-> ***
-> *****
-> - - -
-> ----------------------------------------
+## 다음은 모두 수평선을 만든다.
+    * * *
+    ***
+    *****
+    - - -
+    ---------------------------------------
 
 * * *
 ***
@@ -96,16 +141,24 @@ This is a normal paragraph.
 ---------------------------------------
 
 
-링크
-* 참조링크
-https://www.google.com
+
+## 링크
+    참조링크
+    https://www.google.com
 
 
-강조
-***
+## 강조
+    *Single asterisks*
+    _Single underscores_
+    **double asterisks**
+    __double underscores__
+    ++underline++
+    ~~cancelline~~
+
 *Single asterisks*
 _Single underscores_
 **double asterisks**
 __double underscores__
 ++underline++
 ~~cancelline~~
+
