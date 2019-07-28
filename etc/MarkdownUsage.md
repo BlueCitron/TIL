@@ -119,11 +119,11 @@ This is an H2
 ## 코드
 
 * 4개의 공백 또는 하나의 탭으로 들여쓰기
-    This is a normal paragraph.
+    This is a normal paragraph.<br/>
         This is a code block.
 
 
-This is a normal paragraph.
+This is a normal paragraph.<br/>
      This is a code block.
 
 
@@ -145,6 +145,9 @@ This is a normal paragraph.
 ## 링크
     참조링크
     https://www.google.com
+
+참조링크
+https://www.google.com
 
 
 ## 강조
