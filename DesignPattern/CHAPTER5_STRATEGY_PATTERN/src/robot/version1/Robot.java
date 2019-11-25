@@ -1,4 +1,4 @@
-package version1;
+package robot.version1;
 
 public abstract class Robot {
     private String name;
@@ -12,4 +12,5 @@ public abstract class Robot {
     }
 
     public abstract void attack();
+    public abstract void move();
 }
