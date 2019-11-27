@@ -1,4 +1,4 @@
-package problem1.solution;
+package basic.problem1.solution;
 
 public class Off implements State {
 

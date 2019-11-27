@@ -1,6 +1,4 @@
-package problem1.solution;
-
-import java.util.Objects;
+package basic.problem1.solution;
 
 public class On implements State {
 

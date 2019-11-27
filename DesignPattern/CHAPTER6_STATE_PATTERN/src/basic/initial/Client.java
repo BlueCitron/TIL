@@ -1,4 +1,4 @@
-package initial;
+package basic.initial;
 
 public class Client {
 

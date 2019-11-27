@@ -1,6 +1,6 @@
-package problem1;
+package basic.problem1;
 
-import common.LightState;
+import basic.common.LightState;
 
 public class Light {
     private LightState lightState;
